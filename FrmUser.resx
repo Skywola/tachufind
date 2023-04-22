@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="rtbUser.Text" xml:space="preserve">
+    <value>Beta End User License Agreement
+This End User License Agreement (EULA) applies to Tachufind (as defined
+below) provided by Archeuslore.com. BY CLICKING THE ACCEPTANCE
+BUTTON OR BY DOWNLOADING, INSTALLING OR USING Tachufind, YOU 
+ASSENT TO AND ARE BOUND BY THIS EULA. 
+
+1. Definitions
+a. "Free Beta Version" means the executable code version of Tachufind, including only those features listed for the Free Beta Version listed at the following URL:
+https://www.archeuslore.com/tachufind/
+b. "Documentation" means the user documentation for Tachufind available on 
+Tachufind’s Web Site.
+c. "Tachufind" means the Free Beta Version and/or the Premium Version, as applicable
+to Licensee, associated software, Upgrades, Updates, plug-ins, Documentation, and any
+associated online services provided by Tachufind or its suppliers.
+d. “Tachufind Web Site” means the web site accessed at: 
+https://www.archeuslore.com/tachufind/
+e. "Update" means a revision to Tachufind designated by a change 
+in the version number to the right of the decimal place.
+f. "Upgrade" means a revision to Tachufind designated by a change 
+in the version number to the left of the decimal place.
+2. License Grant
+a. Free Beta Version. Subject to the terms and conditions of this EULA, Tachufind grants
+Licensee a free-of-charge, non-exclusive, and non-transferable license to install and use
+the Free Beta Version solely for Licensee’s own personal use.
+b. Premium Version. Currenty no license exists for the Premium Version, as it is not
+yet in release. 
+3. Upgrades and Updates. In its discretion, Tachufind may make Updates or Upgrades
+available for the Free Beta Version and/or the Premium Version after it is released. Tachufind may, in its discretion, provide any Updates or Upgrades subject to its then current forms of end user license agreement, which may contain additional or different terms. This license does not entitle Licensee to Updates or Upgrades.
+4. Restrictions on Use. Licensee may not: (i) modify or create any derivative works of
+Tachufind; (ii) decompile, disassemble, or reverse engineer Tachufind, or
+(a) defeat, bypass, or otherwise circumvent any software protection mechanisms in the
+Tachufind (except to the extent applicable laws specifically prohibit 
+such restriction);
+(iii) attempt to access or use the additional features of the Premium Version if Licensee
+has not paid the applicable license fee or other than by using the Key; (iv) redistribute,
+encumber, sell, rent, lease, sublicense, or otherwise transfer Tachufind; (v) use 
+Tachufind in a timesharing or service bureau arrangement; or (vi) 
+remove or alter any trademark, logo, copyright or other proprietary notices, legends, 
+symbols or labels in Tachufind. Tachufind Plug-ins that may be provided with or for 
+Tachufind may only be used with Tachufind and may not be 
+used with any other product. 
+5. Responsibility for Copyright Content. Licensee alone is responsible for ensuring that
+any content that is used on Tachufind is properly obtained, licensed and used 
+under copyright and all other applicable law. Licensee agrees not to use Tachufind 
+to reproduce, display, perform, or distribute content in any manner that violates 
+any U.S. or foreign laws or any third party rights.
+6. Support for Tachufind consists of help file content and a contact email address of 
+Tachufind's owner.  When you accept this agreement, you agree that Tachufind is 
+under no obligation to provide any support whatsoever.  
+7. Payment. There is no license fee for the Free Beta Version. 
+8. Consent to Electronic Notice. If for any purpose under this EULA, you provide
+Tachufind with your email address, you agree to receive all notices and communications
+(“Notices”) from Tachufind in electronic form at such email address. Delivery of any
+Notice from Tachufind is effective when sent by Tachufind, regardless of whether you 
+actually receive or read the Notice. If you have provided your email address and do not 
+wish to consent to electronic notice, you must uninstall and discontinue all use of 
+Tachufind. 
+9. Ownership. Tachufind is protected by copyright and other intellectual property laws 
+and by international treaties. No ownership rights are granted by this EULA. Tachufind may use in any manner and without limitation all comments, suggestions, complaints and other 
+feedback that Licensee provides relating to Tachufind. All rights not expressly granted to 
+Licensee are reserved to Tachufind and its suppliers.
+10. Indemnification. Licensee agrees to indemnify, hold harmless, and at Tachufind's
+request, to defend Tachufind and its suppliers from any and all costs, damages and
+reasonable attorneys' fees resulting from any breach of this EULA or any allegation or
+claim that Licensee's use of Tachufind has violated any right of any third party or 
+violated any law.
+11. Termination. Should Licensee breach this EULA, Licensee's right to use Tachufind 
+will terminate automatically without notice. The respective rights and obligations
+of Tachufind and Licensee under the following provisions will survive termination:
+(Restrictions on Use), 5 (Responsibility for Copyright Content), 9 (Consent to
+Electronic Notice), 10 (Ownership), 12 (Indemnification), 13 (Termination), 14
+(Disclaimer of Warranty), 15 (Limitation of Liability), 19 (Third Party Services or
+Products) and 20 (Miscellaneous). Upon termination, Licensee will erase all copies of the
+Tachufind.
+12. Disclaimer of Warranty. Tachufind IS PROVIDED "AS IS." Tachufind
+AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR
+IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE
+ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE
+REMAINS WITH YOU. Tachufind and its suppliers do not make any representations
+regarding the results of the use of Tachufind.
+13. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY
+APPLICABLE LAW, IN NO EVENT WILL Tachufind OR ITS DIRECTORS,
+EMPLOYEES, DISTRIBUTORS, SUPPLIERS, AGENTS OR RESELLERS OR
+SUPPLIERS (“Tachufind PARTIES”) BE LIABLE FOR ANY INDIRECT, SPECIAL,
+INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, EVEN IF SUCH
+PARTY HAS BEEN ADVISED OF THE POSSIBILITY THEREOF. Tachufind
+PARTIES’ ENTIRE LIABILITY WILL NOT EXCEED IN THE AGGREGATE THE
+SUM OF THE FEES LICENSEE PAID FOR THIS LICENSE, REPLACEMENT OF
+DEFECTIVE MEDIA OR PROVISION OF A REASONABLY SIMILAR SOFTWARE
+PRODUCT, AT Tachufind’S DISCRETION. Some jurisdictions do not allow the
+exclusion or limitation of incidental, consequential or special damages, so this exclusion
+and limitation may not be applicable to you. Tachufind Parties will not be liable for any
+claims or damages arising out of: (i) content provided by Licensee or a third party that is
+accessed through or used and/or any material linked to or through such content; or (ii) the use of third party plug-ins (even if made available on Tachufind’s Web Site).
+14. Export Controls. Licensee agrees to comply with all export and import laws and
+restrictions and regulations of the United States or any foreign nation, and not to export,
+re-export or import Tachufind in violation of any such restrictions, laws or regulations.
+15. Injunctive Relief. Licensee acknowledges and agrees that, notwithstanding any other
+provisions of this EULA, any breach or threatened breach of this EULA by Licensee will
+cause Tachufind irreparable damage for which recovery of money damages would be
+inadequate and that Tachufind therefore may obtain timely injunctive relief to protect its
+rights under this EULA in addition to any and all other remedies available at law or in
+equity.
+16. U.S. Government Users. Tachufind is a "commercial item," as that term is
+defined in 48 CFR 2.101, consisting of "commercial computer software" and
+"commercial computer software documentation," as such terms are used in 48 CFR
+12.212 and 48 CFR 227.7202. Consistent with applicable laws and regulations, all U.S.
+Government users acquire Tachufind with only those rights as set forth herein.
+17. Third Party Services or Products
+a. Tachufind may contain links to other web sites, resources and advertisers.  Tachufind is not responsible for such external sites.
+b. Third parties may offer from time to time quizes, searches, applications or services to access, "plugin" to or interact with Tachufind. Licensee's use of such third party applications
+will be at Licensee's own risk and subject to the terms and conditions of those third
+parties. Tachufind MAKES NO REPRESENTATION OR WARRANTIES REGARDING
+THIRD PARTY PRODUCTS EVEN IF DOWNLOADED FROM Tachufind’S WEB
+SITE OR BY MEANS OF A LINK ON SUCH SITE.
+18. Miscellaneous
+a. Licensee represents and warrants that Licensee has all required legal capacity to
+enter into this EULA as a binding agreement.
+b. This EULA is subject to the law of the state of Arizona. This EULA will not be
+governed by the United Nations Convention on Contracts for the International Sale of
+Goods. Licensee agrees that the exclusive jurisdiction and venue for any claim or dispute
+relating to or arising out of this EULA or its subject matter will be in the federal and state
+courts located in Arizona, and Licensee consents to the personal jurisdiction in such courts.
+c. If any provision in this EULA should be held illegal or unenforceable, the other
+provisions of this EULA will remain in full force and effect.
+d. A waiver by either party of any term or condition of this EULA or any breach
+thereof, in any one instance, will not waive such term or condition or any subsequent
+breach thereof.
+e. Licensee may not assign or otherwise transfer by operation of law or otherwise this
+EULA or any rights or obligations herein. Tachufind may assign this EULA to any entity at
+its sole discretion. This EULA will be binding upon and will inure to the benefit of the
+parties, their successors and permitted assigns.
+f. Neither party will be in default or be liable for any delay, failure in performance
+(excepting the obligation to pay) or interruption of service resulting directly or indirectly
+from any cause beyond its reasonable control.
+g. This EULA constitutes the entire agreement between the parties concerning the
+subject matter hereof, which may only be modified by a written amendment signed by an
+authorized executive of Archeus Lore or Tachufind.
+</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        D94RgP8HHKH498O0994AAAAASUVORK5CYII=
+</value>
+  </data>
+</root>
