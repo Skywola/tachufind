@@ -2,11 +2,8 @@
 This program is for learning things fast, and finding things within information you already have.
 
 This source code is not yet complete; I am adding it gradually as I am doing a massive update, it has been a long time . . . 
-The source code is below the normal download link on the download page.
-For more information, go to https://www.archeuslore.com/ and follow the TACHUFIND menu for more indepth information, where you
-can also download the application in EXE form, that is, the compiled application, it will install on Windows 11.
 
-In short, Tachufind speeds up the learning process.
+Tachufind speeds up the learning process.
 Text-To-Speech using Windows speech files.
 Tachufind now includes optical character recognition.
 Color or highlight text by selecting the text and clicking a color button.
