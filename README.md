@@ -1,7 +1,7 @@
 # tachufind
 This program is for learning things fast, and finding things within information you already have.
 
-For the NEWEST source code, go to the website! Github does not have the capacity, so the above code is grossly out-of-date!
+This source code is not yet complete; I am adding it gradually as I am doing a massive update, it has been a long time . . . 
 The source code is below the normal download link on the download page.
 For more information, go to https://www.archeuslore.com/ and follow the TACHUFIND menu for more indepth information, where you
 can also download the application in EXE form, that is, the compiled application, it will install on Windows 11.
