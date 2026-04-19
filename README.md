@@ -1,7 +1,7 @@
 # tachufind
 This program is for learning things fast, and finding things within information you already have.
 
-This source code is not yet complete; I am adding it gradually as I am doing a massive update, it has been a long time . . . 
+***** CURRENTLY THIS APPLICATION IS NOT AVALIABLE, GET HUB RESTRICTS FILE SIZES, SO I AM TRYING TO FIND A WORK-AROUND.  *****************
 
 Tachufind speeds up the learning process.
 Text-To-Speech using Windows speech files.
