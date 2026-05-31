@@ -1,7 +1,10 @@
 # tachufind
 This program is for learning things fast, and finding things within information you already have.
 
-*** CURRENTLY THIS APPLICATION IS NOT AVALIABLE, GET HUB RESTRICTS FILE SIZES, SO I AM TRYING TO FIND A WORK-AROUND.  ***
+*** This has the source code uploaded now, but you will need to download the tessdata files.  ***
+    I have a photo in the tessdata folder that shows what the folder should contain, it already
+    has some of these files that are smaller, but the larger ones you will need to get, they
+    need to be the same as listed.
 
 Tachufind speeds up the learning process.
 Text-To-Speech using Windows speech files.
