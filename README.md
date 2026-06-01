@@ -1,10 +1,11 @@
 # tachufind
 This program is for learning things fast, and finding things within information you already have.
 
-*** This has the source code uploaded now, but you will need to download the tessdata files.  ***
+*** This has the source code uploaded now, but you may need to download the the Chinese tessdata files.  ***
     I have a photo in the tessdata folder that shows what the folder should contain, it already
-    has some of these files that are smaller, but the larger ones you will need to get, they
-    need to be the same as listed.
+    has some most of the necessary files, but if you are going to use Chinese OCR, you will need to 
+    download the chi_sim.traineddata and the chi_tra.traineddata files if you do not see them.
+    If you try doing OCR on Chinese characters without them you will get an error.
 
 Tachufind speeds up the learning process.
 Text-To-Speech using Windows speech files.
