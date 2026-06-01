@@ -1,4 +1,7 @@
 # tachufind
+
+LATEST UPDATE 05-31-2026
+
 This program is for learning things fast, and finding things within information you already have.
 
 *** This has the source code uploaded now, but you may need to download the the Chinese tessdata files.  ***
