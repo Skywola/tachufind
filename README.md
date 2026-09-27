@@ -1,6 +1,12 @@
 # tachufind
 
-LATEST UPDATE 05-31-2026
+LATEST UPDATE 09-27-2026
+
+This whole folder is going to be deleted in the future; I am going to be releasing
+Tachufind 9.0 so when I have it ready, this folder will be deleted for a short time
+so that Tachufind 9.0 will start out on a clean folder. I do not have a date for this
+yet, I still have coding to do, and you know how that goes, it always takes longer
+then you expect, but, Tachufind 9.0 is going to be awesome.
 
 This program is for learning things fast, and finding things within information you already have.
 
